@@ -1,4 +1,11 @@
-# web_scrapers_ufc_data
+# Web_scrapers_for UFC data
+### Prerequisites:
+ - Python 3
+ - Pandas
+ - Numpy
+ - Beautiful soup
+ - multiprocessing
+ - tqdm
 
 ### Getting Fighters statistics:
 - Connecting to [ufc fighters list](http://www.ufcstats.com/statistics/fighters).
