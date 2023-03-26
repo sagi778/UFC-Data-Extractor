@@ -2,6 +2,6 @@
 
 ### about:
 
-- Connecting to [ufc](http://www.ufcstats.com/statistics/fighters).
+- Connecting to [ufc fighters statistics](http://www.ufcstats.com/statistics/fighters).
 - Extracting data of each link(=fighter)
 
