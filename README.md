@@ -1,6 +1,7 @@
 # web_scrapers_ufc_data
 
-## about:
-- connecting to 
-[v] extracting 
-web scrappers for extracting UFC event &amp; fighters statistics to .csv data files
+### about:
+
+- Connecting to [ufc](http://www.ufcstats.com/statistics/fighters).
+- Extracting data of each link(=fighter)
+
