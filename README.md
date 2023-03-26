@@ -7,6 +7,10 @@
  - multiprocessing
  - tqdm
 
+### Installation:
+1. Clone Or download a local copy
+2. Run each .ipynb notebook
+
 ### Getting Fighters statistics:
 - Connecting to [ufc fighters list](http://www.ufcstats.com/statistics/fighters).
 - Extracting data of each link(=fighter).
