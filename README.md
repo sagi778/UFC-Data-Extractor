@@ -1,4 +1,4 @@
-# Web_scrapers_for UFC data
+# Web_scrapers for UFC data
 ### Prerequisites:
  - Python 3
  - Pandas
