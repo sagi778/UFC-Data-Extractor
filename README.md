@@ -22,7 +22,7 @@ Notebook: https://github.com/sagi778/web_scrapers_ufc_data/blob/main/notebooks/f
 - Collecting matches list from each event.
 - converting each match to single data row.
 - Stacking all rows to data set. 
-- Saving data to local path: ../data/ufc_fighters_stats.csv
+- Saving data to local path: ../data/ufc_matches_stats.csv
 
 ### Next: UFC Matches prediction:
 - https://github.com/sagi778/ufc_fights_Predictor
