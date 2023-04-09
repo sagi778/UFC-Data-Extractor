@@ -4,7 +4,6 @@
  - Pandas
  - Numpy
  - Beautiful soup
- - multiprocessing
  - tqdm
 
 ### Installation:
