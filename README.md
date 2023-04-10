@@ -17,6 +17,7 @@ Notebook: https://github.com/sagi778/web_scrapers_ufc_data/blob/main/notebooks/f
 - Saving data to local path: ../data/ufc_fighters_stats.csv
 
 ### Getting Matches statistics:
+Notebook: https://github.com/sagi778/web_scrapers_ufc_data/blob/main/notebooks/matches_stats_web_scraping.ipynb
 - Connecting to [ufc events list](http://www.ufcstats.com/statistics/events/completed)
 - Collecting events links.
 - Collecting matches list from each event.
