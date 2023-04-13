@@ -1,10 +1,13 @@
-# Web_scrapers for UFC data
+# UFC Data Extractor
 ### Prerequisites:
  - Python 3
  - Pandas
  - Numpy
  - Beautiful soup
  - tqdm
+
+### Description:
+UFC Data Extractor is a Python script that makes it easy to gather and analyze data from the ufcstats.com. With this tool, you can extract data on fighters, events, and in-depth statistics, and save it to .csv files for further analysis.
 
 ### Installation:
 1. Clone Or download a local copy
