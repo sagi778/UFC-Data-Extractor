@@ -30,5 +30,4 @@ Notebook: https://github.com/sagi778/web_scrapers_ufc_data/blob/main/notebooks/m
 
 ### What Next?: 
 Who will win? how?
-- UFC Matches prediction:
-- https://github.com/sagi778/ufc_fights_Predictor
+- UFC Matches prediction: https://github.com/sagi778/ufc_fights_Predictor
