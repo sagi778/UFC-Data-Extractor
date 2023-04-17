@@ -15,7 +15,8 @@ UFC Data Extractor is a Python script that makes it easy to gather and analyze d
 
 ### Getting plan for extracting data:
 Notebook: https://github.com/sagi778/UFC-Data-Extractor/tree/main/notebooks/updating_lists.ipynb
-- Get https://github.com/sagi778/UFC-Data-Extractor/blob/main/data/ufc_matches_stats.csv last update time 
+- Get [ufc_matches_stats.csv](https://github.com/sagi778/UFC-Data-Extractor/blob/main/data/ufc_matches_stats.csv) last update time. 
+- Get list of events out of [ufc events list](http://www.ufcstats.com/statistics/events/completed) latter then last update time.
 
 
 ### Getting Fighters statistics:
