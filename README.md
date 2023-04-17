@@ -19,19 +19,15 @@ Notebook: https://github.com/sagi778/UFC-Data-Extractor/tree/main/notebooks/upda
 - Get list of events out of [UFC website](http://www.ufcstats.com/statistics/events/completed) latter then last update time & save it to [update_list_events.csv](https://github.com/sagi778/UFC-Data-Extractor/blob/main/data/update_list_events.csv).
 - Creating list of fighters who fought at [update_list_events.csv](https://github.com/sagi778/UFC-Data-Extractor/blob/main/data/update_list_events.csv) & save it to [update_list_fighters.csv](https://github.com/sagi778/UFC-Data-Extractor/blob/main/data/update_list_fighters.csv)
 
+### Getting Matches statistics:
+Notebook: https://github.com/sagi778/UFC-Data-Extractor/blob/main/notebooks/matches_stats_web_scraping.ipynb
+- Get list of link of events for update [update_list_events.csv](https://github.com/sagi778/UFC-Data-Extractor/blob/main/data/update_list_events.csv)
+- Loop through link list & extracting data from each event & save it to [ufc_fighters_stats.csv](https://github.com/sagi778/UFC-Data-Extractor/blob/main/data/ufc_fighters_stats.csv)
+
 ### Getting Fighters statistics:
 Notebook: https://github.com/sagi778/UFC-Data-Extractor/blob/main/notebooks/fighters_stats_web_scrape.ipynb
 - Get list of link of fighters which required update from [update_list_fighters.csv](https://github.com/sagi778/UFC-Data-Extractor/blob/main/data/update_list_fighters.csv)
-- Loop through link list & extracting data to [ufc_fighters_stats.csv](https://github.com/sagi778/UFC-Data-Extractor/blob/main/data/ufc_fighters_stats.csv)
-
-### Getting Matches statistics:
-Notebook: https://github.com/sagi778/web_scrapers_ufc_data/blob/main/notebooks/matches_stats_web_scraping.ipynb
-- Connecting to [ufc events list](http://www.ufcstats.com/statistics/events/completed)
-- Collecting events links.
-- Collecting matches list from each event.
-- converting each match to single data row.
-- Stacking all rows to data set. 
-- Saving data to local path: ../data/ufc_matches_stats.csv
+- Loop through link list & extracting data to [ufc_matches_stats.csv](https://github.com/sagi778/UFC-Data-Extractor/blob/main/data/ufc_matches_stats.csv)
 
 ### What Next?: 
 Who will win? how?
