@@ -29,6 +29,10 @@ Notebook: https://github.com/sagi778/UFC-Data-Extractor/blob/main/notebooks/figh
 - Get list of link of fighters which required update from [update_list_fighters.csv](https://github.com/sagi778/UFC-Data-Extractor/blob/main/data/update_list_fighters.csv)
 - Loop through link list & extracting data to [ufc_matches_stats.csv](https://github.com/sagi778/UFC-Data-Extractor/blob/main/data/ufc_matches_stats.csv)
 
+### Getting Next Card matches:
+Notebook: https://github.com/sagi778/UFC-Data-Extractor/blob/main/notebooks/upcoming_web_scrape.ipynb
+- Extracting upcoming event fights [Next Cards](https://github.com/sagi778/UFC-Data-Extractor/blob/main/cards/)
+
 ### What Next?: 
 Who will win? how?
 - UFC Matches prediction: https://github.com/sagi778/ufc_fights_Predictor
