@@ -31,7 +31,7 @@ Notebook: https://github.com/sagi778/UFC-Data-Extractor/blob/main/notebooks/figh
 
 ### Getting Next Card matches:
 Notebook: https://github.com/sagi778/UFC-Data-Extractor/blob/main/notebooks/upcoming_web_scrape.ipynb
-- Extracting upcoming event fights [Next Cards](https://github.com/sagi778/UFC-Data-Extractor/blob/main/cards/)
+- Extracting upcoming event fights at [Next Cards](https://github.com/sagi778/UFC-Data-Extractor/blob/main/cards/)
 
 ### What Next?: 
 Who will win? how?
